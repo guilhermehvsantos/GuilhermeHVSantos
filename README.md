@@ -5,11 +5,13 @@
 	This is my profile, but is under construction!
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeHVSantos.GuilhermeHVSantos" 
 	     alt="visitors">
+	     <table align="left">
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
+</table>
+
 </h1>
 
-<table align="right">
- <tr><td><a href="README.md">English</a></td><td><a href="readme_pt-br.md">Português</a></td></tr>
-</table>
 
 </br>
 </br>
