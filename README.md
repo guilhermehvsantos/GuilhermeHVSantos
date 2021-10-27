@@ -1,10 +1,12 @@
 <h1 align="center">
+	<table float="right">
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
+</table>
   Hello, my name is Guilherme
 	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-	     width="30px">, be welcome. </br>  <table float="right">
- <tr><td><a href="README.md">English</a></td></tr>
-	This is my profile, but is under construction!  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
-</table>
+	     width="30px">, be welcome. </br> 
+	This is my profile, but is under construction!
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeHVSantos.GuilhermeHVSantos" 
 	     alt="visitors">
 </h1>
