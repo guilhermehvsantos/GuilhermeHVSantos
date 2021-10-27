@@ -1,11 +1,5 @@
-<style>
-table {
-  float: right;
-}
-</style>
-
 <div>
-<table>
+<table float="right">
  <tr><td><a href="README.md">English</a></td></tr>
  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
