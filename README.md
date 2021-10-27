@@ -26,8 +26,7 @@
 
 - 💬 Any suggestions, tips or constructive critics are welcome!
 
-- ❤️ Some of my passions/hobbies are 📺 watching soccer, movies, animes, </br>
-🕹️ playing video games, 🎶 listening to music, 🍽️ learning and trying new recipes  
+- ❤️ Some of my passions/hobbies are 📺 watching soccer, movies, animes, 🕹️ playing video games, 🎶 listening to music, 🍽️ learning and trying new recipes  
 
 </br>
 </br>
