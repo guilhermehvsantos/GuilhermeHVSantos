@@ -18,15 +18,15 @@
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="32px" margin="20px"> Sobre mim
 
-📌 Nascido e criado em São Paulo
+- 📌 Nascido e criado em São Paulo
 
-🎓 Formado em Engenharia Civil
+- 🎓 Formado em Engenharia Civil
 
-👨‍🎓 Aspirante a desenvolvedor front-end/full-stack. Atualmente começando por HTML, CSS e JS.
+- 👨‍🎓 Aspirante a desenvolvedor front-end/full-stack. Atualmente começando por HTML, CSS e JS.
 
-💬 Qualquer sugestão, dica ou crítica construtiva são bem-vindas.
+- 💬 Qualquer sugestão, dica ou crítica construtiva são bem-vindas.
 
-❤️ Algumas das minhas paixões são 📺 assistir futebol, filmes, animes </br>
+- ❤️ Algumas das minhas paixões são 📺 assistir futebol, filmes, animes </br>
 
 🕹️ jogar video games, 🎶 escutar musica, 🍽️ aprender e testar novas receitas 
 
