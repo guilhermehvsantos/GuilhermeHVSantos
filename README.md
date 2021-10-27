@@ -36,5 +36,5 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermehvs/)
 
 
-<a href='https://www.linkedin.com/in/guilhermehvs/'><img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
+<a href='https://www.linkedin.com/in/guilhermehvs/' target="_blank"><img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a>
 
