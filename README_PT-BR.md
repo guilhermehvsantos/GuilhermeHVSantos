@@ -14,7 +14,7 @@
 </br>
 </br>
 
-### Sobre mim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="16px" margin="20px">  
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="20px"> ### Sobre mim  
 
 📌 Nascido e criado em São Paulo
 
