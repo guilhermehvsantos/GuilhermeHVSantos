@@ -26,7 +26,9 @@
 
 💬 Qualquer sugestão, dica ou crítica construtiva são bem-vindas.
 
-❤️ Algumas das minhas paixões são 📺 assistir futebol, filmes, animes 🕹️ jogar video games, 🎶 escutar musica, 🍽️ aprender e testar novas receitas 
+❤️ Algumas das minhas paixões são 📺 assistir futebol, filmes, animes </br>
+
+🕹️ jogar video games, 🎶 escutar musica, 🍽️ aprender e testar novas receitas 
 
 </br>
 </br>
