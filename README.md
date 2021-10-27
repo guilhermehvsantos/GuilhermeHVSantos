@@ -1,6 +1,6 @@
 
-<table style="float: right" >
- <tr><td><a href="README.md">English</a></td><td><a href="readme_pt-br.md">Português</a></td></tr>
+<table>
+ <tr><td><a href="README.md">English</a></td><td><a href="README_PT-BR.md">Português</a></td></tr>
 </table>
 <h1 align="center">
   Hello, my name is Guilherme
@@ -10,8 +10,6 @@
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeHVSantos.GuilhermeHVSantos" 
 	     alt="visitors">
 </h1>
-
-
 
 </br>
 </br>
