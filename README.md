@@ -24,12 +24,18 @@
 
 - ❤️ Some of my passions/hobbies are 📺 watching soccer, movies, animes, 🕹️ playing video games, 🎶 listening to music, 🍽️ learning and trying new recipes  
 
+</br>
+</br>
+
 ### 📈 GitHub Stats
 
 <p align="center">
     <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHVSantos&theme=vision-friendly-dark&show_icons=true" alt="GuilhermeHVSantos"/>
     <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHVSantos&theme=vision-friendly-dark&layout=compact" alt="GuilhermeHVSantos" />
 </p>
+
+</br>
+</br>
 
 #### Contacts 
 
