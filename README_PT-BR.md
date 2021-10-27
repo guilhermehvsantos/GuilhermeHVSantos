@@ -16,7 +16,7 @@
 
 <img align="right" height="250" width="375" margin="20px" alt="" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="32px" margin="20px"> Sobre mim
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="32px" margin="20px"> Sobre mim
 
 - 📌 Nascido e criado em São Paulo
 
