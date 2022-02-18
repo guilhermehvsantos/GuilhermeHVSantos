@@ -22,6 +22,8 @@
 
 - 🎓 Graduated in Civil Engineer
 
+- 🍁 Lived in Canada/Vancouver
+
 - 👨‍🎓 Aspiring to be a front-end/full-stack developer. Currently starting to learn HTML, CSS and JS.
 
 - 💬 Any suggestions, tips or constructive critics are welcome!
