@@ -22,6 +22,8 @@
 
 - 🎓 Formado em Engenharia Civil
 
+- 🍁 Morei em Vancouver/Canada
+
 - 👨‍🎓 Aspirante a desenvolvedor front-end/full-stack. Atualmente começando por HTML, CSS e JS.
 
 - 💬 Qualquer sugestão, dica ou crítica construtiva são bem-vindas.
