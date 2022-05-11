@@ -24,7 +24,7 @@
 
 - 🍁 Lived in Canada/Vancouver
 
-- 👨‍🎓 Aspiring to be a front-end/full-stack developer. Currently starting to learn HTML, CSS and JS.
+- 👨‍🎓 Aspiring to be a front-end/full-stack developer. Currently starting to learn HTML, CSS, JS and React.
 
 - 💬 Any suggestions, tips or constructive critics are welcome!
 
