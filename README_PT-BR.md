@@ -24,7 +24,7 @@
 
 - 🍁 Morei em Vancouver/Canada
 
-- 👨‍🎓 Aspirante a desenvolvedor front-end/full-stack. Atualmente começando por HTML, CSS e JS.
+- 👨‍🎓 Aspirante a desenvolvedor front-end/full-stack. Atualmente começando por HTML, CSS, JS e React.
 
 - 💬 Qualquer sugestão, dica ou crítica construtiva são bem-vindas.
 
