@@ -26,7 +26,7 @@
 
 - 👨‍🎓 Aspiring to be a front-end/full-stack developer. Currently studying Systems Development Analysis at Senac.
 
-- Focusing on HTML, CSS, JS, React and Node.
+- Learning FullStack Development.
 
 - 💬 Any suggestions, tips or constructive critics are welcome!
 
