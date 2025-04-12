@@ -54,7 +54,7 @@
 
 ## 📫 Contact Me
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolioweb-five-mocha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge)](https://portfolioweb-five-mocha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermehvs/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermehvs@hotmail.com)
 
