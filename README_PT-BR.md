@@ -1,53 +1,60 @@
-
 <table>
- <tr><td><a href="README.md">English</a></td><td><a href="README_PT-BR.md">Português</a></td></tr>
+  <tr>
+    <td><a href="README.md">English</a></td>
+    <td><a href="README_PT-BR.md">Português</a></td>
+  </tr>
 </table>
+
 <h1 align="center">
-  Olá, meu nome é Guilherme
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-	     width="30px">, seja bem-vindo. </br>
-	Este é meu perfil, mas ainda estou trabalhando nele!
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeHVSantos.GuilhermeHVSantos" 
-	     alt="visitors">
+  Olá, eu sou o Guilherme 
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+  <br/>
+  Bem-vindo ao meu perfil no GitHub! 🚧 Em construção 🚧
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeHVSantos.GuilhermeHVSantos" alt="visitantes"/>
 </h1>
 
-</br>
-</br>
+<img align="right" height="250" width="375" alt="Gif programando" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-<img align="right" height="250" width="375" margin="20px" alt="" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+## 🙋‍♂️ Sobre mim
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="32px" margin="20px"> Sobre mim
+- 📍 Moro em São Paulo, Brasil  
+- 🎓 Graduação em Engenharia Civil  
+- 🍁 Vivi e trabalhei em Vancouver, Canadá  
+- 💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas** no Senac  
+- 👨‍💻 Focado em **Desenvolvimento Full Stack** com Java, Spring Boot, React e AWS  
+- 💬 Aberto a feedbacks, sugestões e novas oportunidades  
+- 🧠 Sempre aprendendo e desenvolvendo novos projetos  
 
-- 📌 Nascido e criado em São Paulo
+## 🧰 Tecnologias
 
-- 🎓 Formado em Engenharia Civil
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🍁 Morei em Vancouver/Canada
+## 🚀 Projetos
 
-- 👨‍🎓 Aspirante a desenvolvedor front-end/full-stack. Atualmente estudando Análise e Desenvolvilmento de Sistemas no Senac 
+| Projeto | Descrição | Testar |
+|--------|-------------|--------|
+| [**Top Trumps – Jojo Edition**](https://github.com/guilhermehvsantos/Jojo-SuperTrunfo) | 🎴 Jogo de cartas baseado no anime *Jojo's Bizarre Adventure*, feito com **HTML, CSS e JavaScript**. | [Jogar Agora](https://guilhermehvsantos.github.io/Jojo-SuperTrunfo/) |
+| [**Pokedex**](https://github.com/guilhermehvsantos/Pokedex) | 🧠 Pokedex funcional usando **React + TypeScript**, consumindo dados da PokéAPI com **Fetch API**. | [Testar aqui](https://guilhermehvsantos.github.io/Pokedex/) |
+| [**Event Master**](https://github.com/guilhermehvsantos/POO-2024-1-Equipe07) | 🎟️ Aplicação desktop de controle de ingressos feita em **Java** com **Swing** e **SQL**. | [Ver Repositório](https://github.com/guilhermehvsantos/POO-2024-1-Equipe07) |
+| [**ADASPStock**](https://github.com/guilhermehvsantos/PI---SENAC-4-SEMESTRE) | 📦 Plataforma web de **gestão de estoque** com controle de entrada e saída de produtos. | [Ver Demo](https://www.youtube.com/watch?v=3NbT76TXASU) |
+| [**FixIt**](https://github.com/guilhermehvsantos/Fixit-Deploy-Docker) | 🛠️ Plataforma de suporte técnico desenvolvida com **React, Spring Boot** e **H2**, ideal para colaboração em equipe. | [Testar Online](https://fixit-pi-five.vercel.app/) |
 
-- 🛠️ Aprendendo desenvolvimento FullStack.
-
-- 💬 Qualquer sugestão, dica ou crítica construtiva são bem-vindas.
-
-- ❤️ Algumas das minhas paixões são 📺 assistir futebol, filmes, animes, 🕹️ jogar video games, 🎶 escutar musica, 🍽️ aprender e testar novas receitas 
-
-</br>
-</br>
-
-### 📈 Status do Github
+## 📊 Estatísticas GitHub
 
 <p align="center">
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHVSantos&theme=vision-friendly-dark&show_icons=true" alt="GuilhermeHVSantos"/>
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHVSantos&theme=vision-friendly-dark&layout=compact" alt="GuilhermeHVSantos" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHVSantos&theme=vision-friendly-dark&show_icons=true" alt="GitHub Stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHVSantos&theme=vision-friendly-dark&layout=compact" alt="Linguagens Mais Usadas"/>
 </p>
 
-</br>
-</br>
+## 📫 Contato
 
-#### Contatos
+[![Portfólio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolioweb-five-mocha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermehvs/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermehvs@hotmail.com)
 
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermehvs@hotmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_hvs/)
-[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilhermehvs/)
- 
