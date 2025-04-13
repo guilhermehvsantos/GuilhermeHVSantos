@@ -19,12 +19,13 @@
 ## 🙋‍♂️ Sobre mim
 
 - 📍 Moro em São Paulo, Brasil  
-- 🎓 Graduação em Engenharia Civil  
-- 🍁 Vivi e trabalhei em Vancouver, Canadá  
+- 🎓 Graduado em Engenharia Civil  
+- 🍁 Morei e trabalhei em Vancouver, Canadá  
 - 💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas** no Senac  
 - 👨‍💻 Focado em **Desenvolvimento Full Stack** com Java, Spring Boot, React e AWS  
 - 💬 Aberto a feedbacks, sugestões e novas oportunidades  
 - 🧠 Sempre aprendendo e desenvolvendo novos projetos  
+- 🎮 Quando não estou trabalhando ou estudando pode me encontrar jogando ou na cozinha preparando algo 🧑‍🍳.
 
 ## 🧰 Tecnologias
 
