@@ -25,7 +25,8 @@
 - 👨‍💻 Focado em **Desenvolvimento Full Stack** com Java, Spring Boot, React e AWS  
 - 💬 Aberto a feedbacks, sugestões e novas oportunidades  
 - 🧠 Sempre aprendendo e desenvolvendo novos projetos  
-- 🎮 Quando não estou trabalhando ou estudando pode me encontrar jogando ou na cozinha preparando algo 🧑‍🍳.
+- 🎮 Quando não estou trabalhando ou estudando pode me encontrar jogando,
+- 🧑‍🍳 ou na cozinha preparando algo.
 
 ## 🧰 Tecnologias
 
