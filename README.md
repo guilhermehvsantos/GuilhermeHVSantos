@@ -24,7 +24,9 @@
 - 💻 Currently studying **Systems Development Analysis** at Senac  
 - 👨‍💻 Focused on **Full Stack Development** using Java, Spring Boot, React and AWS  
 - 💬 Open to feedback, suggestions, and new opportunities  
-- 🧠 Always learning and building new projects  
+- 🧠 Always learning and building new projects
+- 🎮 When I'm not working or studying you can find me playing videogames,
+- 🧑‍🍳 or in the kitchen cooking something.
 
 ## 🧰 Tech Stack
 
